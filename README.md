@@ -1,4 +1,4 @@
-# 👋 Hello everybody, i'm Alfredo!🇧🇷
+# 👋 Hi, i'm Alfredo!🇧🇷
 
  🧑‍💻 I'm full-stack develloper.
 
