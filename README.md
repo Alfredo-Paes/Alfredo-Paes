@@ -1,6 +1,6 @@
 # 👋 Hi, i'm Alfredo!🇧🇷
 
- 🧑‍💻 I'm full-stack develloper.
+ 🧑‍💻 I'm JavaScript develloper.
 
 - 👨‍🔬 One step at a time, always discovering new things ...
 
