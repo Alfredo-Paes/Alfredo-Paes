@@ -1,6 +1,6 @@
 # 👋 Hi, i'm Alfredo!🇧🇷
 
- 🧑‍💻 I'm Front-End and Mobile develloper.
+ 🧑‍💻 I'm Full-Stack developer.
 
 - 👨‍🔬 One step at a time, always discovering new things ...
 
